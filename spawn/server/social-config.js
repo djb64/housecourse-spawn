@@ -2,8 +2,8 @@ ServiceConfiguration.configurations.upsert(
     {service: 'facebook'},
     {
         $set: {
-            appId: '1650844851825940',
-            secret: '5281f547dab18a457749f5c01e44d1d9',
+            appId: '1650844601825965',
+            secret: '0b17bda1ae5dae83ff4a720f508667a6',
             requestPermissions: ['user_friends']
         }
     }
